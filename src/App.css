@@ -1,0 +1,33 @@
+div {
+  text-align: center;
+  vertical-align: center;
+  line-height: 10vh;
+  margin-top:70px;
+}
+p{
+  font-size:19px;
+}
+#inputfield{
+  border-radius:5px;
+  height:35px;
+  width: 280px;
+  font-size:20px;
+}
+#add{
+  background-color:#1b45ee;
+  color:white;
+  border-color:#1b45ee;
+  border-radius:5px;
+  height:45px;
+  width: 285px;
+  font-size:20px;
+}
+#sub{
+  background-color:#ee1b70;
+  color:white;
+  border-color:#ee1b70;
+  border-radius:5px;
+  height:45px;
+  width: 285px;
+  font-size:20px;
+}
